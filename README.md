@@ -1,4 +1,2 @@
 # Steganography
-hi
-Hide Text In Image
-
+The field of information security is regarded as being essential in the digital world, and its demand is growing daily. One of the security measures used when exchanging information, particularly on unsecured networks, is encryption. The goal of cryptography is to conceal communication, in the sense that it conceals information in a digital medium to avoid raising suspicions about the presence of information there.
