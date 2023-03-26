@@ -3,7 +3,7 @@ The field of information security is regarded as being essential in the digital 
 One of the security measures used when exchanging information is cryptography.
 The goal of cryptography is to conceal communication, in the sense that it conceals information in a digital medium to avoid raising suspicions about the presence of information there.
 
-# Steganography in photos
+# Steganography in image
 is the process of concealing private information or messages within digital images without changing their exterior appearance.
 Steganography in photos primarily aims to hide the presence of the hidden data while preserving the usability and quality of the image.
 
